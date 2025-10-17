@@ -17,7 +17,7 @@ export default function Chaning() {
                 A LIFE CHANGING DEVICE
             </p>
             <h1 className=" text-white text-center text-[50px] font-[400]  w-[100%]">
-                Get Your 0.4 TrackMate XE Today
+                Get Your 0.4 TimePulse XE Today
             </h1>
             <Link to={'/BuyNow'}>
                 <button className="px-[80px] w-fit text-[16px] hover:bg-white hover:text-black transition-all 

@@ -13,7 +13,7 @@ export default function LeftPart() {
 
     return (
         <div className="w-[35%] h-full  text-white p-[70px] flex gap-[30px] flex-col " data-aos-duration="1000" data-aos="fade-left" >
-            <h1 className="text-4xl flex flex-col gap-[5px]"> 0.4 TrackMate XE<span className="text-[15px] text-gray-50">SKU: 0001</span></h1>
+            <h1 className="text-4xl flex flex-col gap-[5px]"> 0.4 TimePulse XE<span className="text-[15px] text-gray-50">SKU: 0001</span></h1>
             <span className="text-2xl">$85.00</span>
             <ul className="flex flex-col gap-[5px]">
                 color *

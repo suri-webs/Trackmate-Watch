@@ -9,7 +9,7 @@ export default function Navbar() {
                         <span className="w-[12px] h-[12px] bg-white rounded-[50%]"></span>
                     </span>
                 </div>
-                <a href="" className="text-[30px] font-[440] text-white">TrackMate</a>
+                <a href="/" className="text-[30px] font-[440] text-white">TimePulse</a>
             </span>
 
             <ul className=" flex items-center gap-[20px] justify-around h-full">

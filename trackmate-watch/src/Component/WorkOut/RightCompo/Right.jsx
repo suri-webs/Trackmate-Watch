@@ -17,7 +17,7 @@ export default function RightWorkout() {
 
             <div className="w-full h-full bg-[#0000007d] absolute inset-0 z-[9]"></div>
 
-            <img src="/Mobile1.avif" className=" w-[350px] z-[99] absolute left-[-150px]" data-aos="fade-left" data-aos-duration="1000"  alt="" />
+            <img src="/Mobile1.png" className=" w-[350px] z-[99] absolute left-[-150px]" data-aos="fade-left" data-aos-duration="1000"  alt="" />
 
         </div>
     )

@@ -16,7 +16,7 @@ export default function TrackMate() {
          flex justify-center items-center flex-col p-[100px] gap-[140px] ">
             <img src="/shutterstock_watch.avif" className="w-[700px] absolute top-[20%]" alt="" data-aos-duration="900" data-aos="fade-up" />
 
-            <h1 className="text-white text-5xl">0.4 TrackMate XE Specifications</h1>
+            <h1 className="text-white text-5xl">0.4 TimePulse XE Specifications</h1>
             <div className="w-full h-full flex justify-center">
                 <LeftTrack />
                 <RightTrack />

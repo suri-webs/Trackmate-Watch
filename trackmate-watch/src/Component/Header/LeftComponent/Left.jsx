@@ -6,7 +6,7 @@ export default function LeftHeader() {
         <div className=" h-[400px] w-[900px] z-[99] shadow-[0_0_70px_#2a2a2af9] p-[40px]  flex  justify-center  bg-[#2a2a2a7c] 
          rounded-[25%] flex-col text-white backdrop-blur-mdxl px-[50px]">
             <p className=" text-2xl "> Own Your Daily Routine</p>
-            <h1 className="text-[80px] text-white font-[440]">0.4 TrackMate XE</h1>
+            <h1 className="text-[80px] text-white font-[440]">0.4 TimePulse XE</h1>
             <p className="text-2xl">A health tracker that motivates you every step of the way</p>
             <Link to={'/BuyNow'}>
                 <button className="px-[70px] w-fit text-[16px] hover:bg-white hover:text-black transition-all 
